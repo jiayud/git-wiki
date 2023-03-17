@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Fix xyxyxyxyn calculation in obb result (#8188)
