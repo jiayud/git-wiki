@@ -1,1 +1,1 @@
-example Google Colab
+Update CI.md with CI links (#8786)
