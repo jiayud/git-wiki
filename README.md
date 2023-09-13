@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add Weights & Biases Docs integrations page (#7199)
