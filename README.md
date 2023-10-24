@@ -1,1 +1,1 @@
-added badges (#45)
+YAML reformat (#7669)
