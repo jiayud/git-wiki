@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add YOLOv8 LibTorch C++ inference example (#7090)
