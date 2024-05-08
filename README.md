@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
