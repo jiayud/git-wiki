@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
