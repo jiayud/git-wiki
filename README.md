@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
